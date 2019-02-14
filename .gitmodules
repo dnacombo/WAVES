@@ -1,0 +1,9 @@
+[submodule "fieldtrip"]
+	path = fieldtrip
+	url = ./fieldtrip
+[submodule "misc"]
+	path = misc
+	url = ./misc
+[submodule "simu/SEREEGA"]
+	path = simu/SEREEGA
+	url = git@gitlab.icm-institute.org:maximilien.chaumon/SEREEGA.git
