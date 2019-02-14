@@ -1,9 +1,9 @@
 [submodule "fieldtrip"]
 	path = fieldtrip
-	url = ./fieldtrip
+	url = https://github.com/dnacombo/fieldtrip.git
 [submodule "misc"]
 	path = misc
-	url = ./misc
+	url = https://gitlab.icm-institute.org/maximilien.chaumon/miscMatlab.git
 [submodule "simu/SEREEGA"]
 	path = simu/SEREEGA
-	url = git@gitlab.icm-institute.org:maximilien.chaumon/SEREEGA.git
+	url = https://github.com/dnacombo/SEREEGA.git
